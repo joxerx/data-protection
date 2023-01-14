@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\dataProtection\kate\transposition_cipher\transposition_cipher\bin\Debug\transposition_cipher.exe.config
+C:\Users\admin\Desktop\dataProtection\kate\transposition_cipher\transposition_cipher\bin\Debug\transposition_cipher.exe
+C:\Users\admin\Desktop\dataProtection\kate\transposition_cipher\transposition_cipher\bin\Debug\transposition_cipher.pdb
+C:\Users\admin\Desktop\dataProtection\kate\transposition_cipher\transposition_cipher\obj\Debug\transposition_cipher.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dataProtection\kate\transposition_cipher\transposition_cipher\obj\Debug\transposition_cipher.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\dataProtection\kate\transposition_cipher\transposition_cipher\obj\Debug\transposition_cipher.Form1.resources
+C:\Users\admin\Desktop\dataProtection\kate\transposition_cipher\transposition_cipher\obj\Debug\transposition_cipher.Properties.Resources.resources
+C:\Users\admin\Desktop\dataProtection\kate\transposition_cipher\transposition_cipher\obj\Debug\transposition_cipher.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\dataProtection\kate\transposition_cipher\transposition_cipher\obj\Debug\transposition_cipher.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dataProtection\kate\transposition_cipher\transposition_cipher\obj\Debug\transposition_cipher.exe
+C:\Users\admin\Desktop\dataProtection\kate\transposition_cipher\transposition_cipher\obj\Debug\transposition_cipher.pdb
