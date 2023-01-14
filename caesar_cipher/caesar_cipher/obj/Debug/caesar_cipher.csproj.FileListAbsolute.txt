@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\dataProtection\kate\caesar_cipher\caesar_cipher\obj\Debug\caesar_cipher.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dataProtection\kate\caesar_cipher\caesar_cipher\obj\Debug\caesar_cipher.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\dataProtection\kate\caesar_cipher\caesar_cipher\obj\Debug\caesar_cipher.Form1.resources
+C:\Users\admin\Desktop\dataProtection\kate\caesar_cipher\caesar_cipher\obj\Debug\caesar_cipher.Properties.Resources.resources
+C:\Users\admin\Desktop\dataProtection\kate\caesar_cipher\caesar_cipher\obj\Debug\caesar_cipher.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\dataProtection\kate\caesar_cipher\caesar_cipher\obj\Debug\caesar_cipher.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dataProtection\kate\caesar_cipher\caesar_cipher\bin\Debug\caesar_cipher.exe.config
+C:\Users\admin\Desktop\dataProtection\kate\caesar_cipher\caesar_cipher\bin\Debug\caesar_cipher.exe
+C:\Users\admin\Desktop\dataProtection\kate\caesar_cipher\caesar_cipher\bin\Debug\caesar_cipher.pdb
+C:\Users\admin\Desktop\dataProtection\kate\caesar_cipher\caesar_cipher\obj\Debug\caesar_cipher.exe
+C:\Users\admin\Desktop\dataProtection\kate\caesar_cipher\caesar_cipher\obj\Debug\caesar_cipher.pdb
