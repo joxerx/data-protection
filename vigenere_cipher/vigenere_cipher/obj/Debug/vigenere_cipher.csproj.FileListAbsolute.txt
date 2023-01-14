@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\dataProtection\kate\vigenere_cipher\vigenere_cipher\bin\Debug\vigenere_cipher.exe.config
+C:\Users\admin\Desktop\dataProtection\kate\vigenere_cipher\vigenere_cipher\bin\Debug\vigenere_cipher.exe
+C:\Users\admin\Desktop\dataProtection\kate\vigenere_cipher\vigenere_cipher\bin\Debug\vigenere_cipher.pdb
+C:\Users\admin\Desktop\dataProtection\kate\vigenere_cipher\vigenere_cipher\obj\Debug\vigenere_cipher.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dataProtection\kate\vigenere_cipher\vigenere_cipher\obj\Debug\vigenere_cipher.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\dataProtection\kate\vigenere_cipher\vigenere_cipher\obj\Debug\vigenere_cipher.Form1.resources
+C:\Users\admin\Desktop\dataProtection\kate\vigenere_cipher\vigenere_cipher\obj\Debug\vigenere_cipher.Properties.Resources.resources
+C:\Users\admin\Desktop\dataProtection\kate\vigenere_cipher\vigenere_cipher\obj\Debug\vigenere_cipher.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\dataProtection\kate\vigenere_cipher\vigenere_cipher\obj\Debug\vigenere_cipher.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dataProtection\kate\vigenere_cipher\vigenere_cipher\obj\Debug\vigenere_cipher.exe
+C:\Users\admin\Desktop\dataProtection\kate\vigenere_cipher\vigenere_cipher\obj\Debug\vigenere_cipher.pdb
