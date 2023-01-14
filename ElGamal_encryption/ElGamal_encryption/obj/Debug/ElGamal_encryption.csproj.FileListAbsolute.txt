@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\dataProtection\kate\ElGamal_encryption\ElGamal_encryption\bin\Debug\ElGamal_encryption.exe.config
+C:\Users\admin\Desktop\dataProtection\kate\ElGamal_encryption\ElGamal_encryption\bin\Debug\ElGamal_encryption.exe
+C:\Users\admin\Desktop\dataProtection\kate\ElGamal_encryption\ElGamal_encryption\bin\Debug\ElGamal_encryption.pdb
+C:\Users\admin\Desktop\dataProtection\kate\ElGamal_encryption\ElGamal_encryption\obj\Debug\ElGamal_encryption.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dataProtection\kate\ElGamal_encryption\ElGamal_encryption\obj\Debug\ElGamal_encryption.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\dataProtection\kate\ElGamal_encryption\ElGamal_encryption\obj\Debug\ElGamal_encryption.Form1.resources
+C:\Users\admin\Desktop\dataProtection\kate\ElGamal_encryption\ElGamal_encryption\obj\Debug\ElGamal_encryption.Properties.Resources.resources
+C:\Users\admin\Desktop\dataProtection\kate\ElGamal_encryption\ElGamal_encryption\obj\Debug\ElGamal_encryption.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\dataProtection\kate\ElGamal_encryption\ElGamal_encryption\obj\Debug\ElGamal_encryption.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dataProtection\kate\ElGamal_encryption\ElGamal_encryption\obj\Debug\ElGamal_encryption.exe
+C:\Users\admin\Desktop\dataProtection\kate\ElGamal_encryption\ElGamal_encryption\obj\Debug\ElGamal_encryption.pdb
