@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\dataProtection\kate\XOR_cipher\XOR_cipher\bin\Debug\XOR_cipher.exe.config
+C:\Users\admin\Desktop\dataProtection\kate\XOR_cipher\XOR_cipher\bin\Debug\XOR_cipher.exe
+C:\Users\admin\Desktop\dataProtection\kate\XOR_cipher\XOR_cipher\bin\Debug\XOR_cipher.pdb
+C:\Users\admin\Desktop\dataProtection\kate\XOR_cipher\XOR_cipher\obj\Debug\XOR_cipher.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dataProtection\kate\XOR_cipher\XOR_cipher\obj\Debug\XOR_cipher.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\dataProtection\kate\XOR_cipher\XOR_cipher\obj\Debug\XOR_cipher.Form1.resources
+C:\Users\admin\Desktop\dataProtection\kate\XOR_cipher\XOR_cipher\obj\Debug\XOR_cipher.Properties.Resources.resources
+C:\Users\admin\Desktop\dataProtection\kate\XOR_cipher\XOR_cipher\obj\Debug\XOR_cipher.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\dataProtection\kate\XOR_cipher\XOR_cipher\obj\Debug\XOR_cipher.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dataProtection\kate\XOR_cipher\XOR_cipher\obj\Debug\XOR_cipher.exe
+C:\Users\admin\Desktop\dataProtection\kate\XOR_cipher\XOR_cipher\obj\Debug\XOR_cipher.pdb
