@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\dataProtection\kate\remainder_theorem\remainder_theorem\bin\Debug\remainder_theorem.exe.config
+C:\Users\admin\Desktop\dataProtection\kate\remainder_theorem\remainder_theorem\bin\Debug\remainder_theorem.exe
+C:\Users\admin\Desktop\dataProtection\kate\remainder_theorem\remainder_theorem\bin\Debug\remainder_theorem.pdb
+C:\Users\admin\Desktop\dataProtection\kate\remainder_theorem\remainder_theorem\obj\Debug\remainder_theorem.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dataProtection\kate\remainder_theorem\remainder_theorem\obj\Debug\remainder_theorem.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\dataProtection\kate\remainder_theorem\remainder_theorem\obj\Debug\remainder_theorem.Form1.resources
+C:\Users\admin\Desktop\dataProtection\kate\remainder_theorem\remainder_theorem\obj\Debug\remainder_theorem.Properties.Resources.resources
+C:\Users\admin\Desktop\dataProtection\kate\remainder_theorem\remainder_theorem\obj\Debug\remainder_theorem.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\dataProtection\kate\remainder_theorem\remainder_theorem\obj\Debug\remainder_theorem.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dataProtection\kate\remainder_theorem\remainder_theorem\obj\Debug\remainder_theorem.exe
+C:\Users\admin\Desktop\dataProtection\kate\remainder_theorem\remainder_theorem\obj\Debug\remainder_theorem.pdb
